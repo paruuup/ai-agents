@@ -2,6 +2,21 @@
  
  📌 Project Overview
  This project is an intelligent, end-to-end automation workflow designed to close the feedback loop. Built using n8n, it transforms raw customer input into structured, actionable data by leveraging Large Language Models (LLMs) for real-time classification and routing.
+
+ ![n8n Workflow](Workflow.png)
+ ### 📊 Database View (Airtable)
+![Airtable Screenshot](<img width="1802" height="367" alt="Airtable -Complaints update" src="https://github.com/user-attachments/assets/4aa2bce3-1c9e-442d-abf8-cf318ac1db2a" />
+
+
+### 💬 Real-time Alerts (Slack)
+![Slack Notification](<img width="1150" height="638" alt="Slack update to Team" src="https://github.com/user-attachments/assets/6e197c09-6660-425f-acb7-88b211d4888a" />
+.png)
+
+### 📧 Automated Email Response (Gmail)
+![Gmail Response](<img width="1529" height="503" alt="Gmail response to the user" src="https://github.com/user-attachments/assets/5f990d61-a9eb-406a-aa2f-1e51fef14810" />
+
+
+
  ⚙️ Key Features 
  
 - Intelligent Classification: Uses AI to categorize feedback into Complaints, Compliments, or Feature Requests.
